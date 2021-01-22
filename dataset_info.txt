@@ -1,0 +1,24 @@
+(1) Liver Cirrhosis Dataset:
+Raw Shotgun Sequence Data: https://www.ebi.ac.uk/ena/browser/view/PRJEB6337
+Sample Labels & Info: The "Supplementary Information" of the paper contains the list of sample-aliases and class-labels.
+Paper Reference: https://www.nature.com/articles/nature13568?page=7
+
+(2) Colorectal Cancer Dataset:
+Raw Shotgun Sequence Data: https://www.ebi.ac.uk/ena/browser/view/PRJEB6070
+Sample Labels & Info: Sheet# 2 of the excel file "Supplementary Dataset S1" of the paper contains the list of sample-aliases and class-labels. 
+Paper Reference: https://www.embopress.org/doi/full/10.15252/msb.20145645
+
+(3) IBD Dataset:
+Raw Shotgun Sequence Data: https://www.ebi.ac.uk/ena/browser/view/PRJEB2054
+Sample Labels & Info: Table# 1 of the "Supplementary information" pdf file of the paper contains the list of sample-aliases and class-labels. 
+Paper Reference: https://www.nature.com/articles/nature08821
+
+(4) Obesity Dataset:
+Raw Shotgun Sequence Data: https://www.ebi.ac.uk/ena/browser/view/PRJEB4336
+Sample Labels & Info: Go to "Supplementary Data" of the paper, download the excel file, go to Sheet# 8 titled "SupTab10", Column# 1 is sample-alias and Column# 2 is BMI. In total, 292 non-diabetic individuals, total 96 of study volunteers were "lean" with BMI <25, total 27 were "overweight" with BMI between 25 and 30, and total 169  were obese with BMI >30. This info in provided in the "Study population" subsection of the dataset paper. 
+Paper Reference: https://www.nature.com/articles/nature12506?page=14
+
+(5) Type-2 Diabetes Dataset:
+Raw Shotgun Sequence Data: https://www.ebi.ac.uk/ena/browser/view/PRJEB4336
+Sample Labels & Info: Go to "Supplementary Tables" of the paper, download the excel file, go to the tab titled "Table S14", The Red-colored sample-alias (aka sample id's) are "T2D patients" and green-colored ones are "controls". 
+Paper Reference: https://www.nature.com/articles/nature11450
